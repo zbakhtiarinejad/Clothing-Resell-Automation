@@ -29,4 +29,3 @@ HOW TO USE IT IN 2 STEPS:
 1. Log new items you buy in the 'Inventory' tab.
 2. Log items when they sell in the 'Sales Log' tab. The rest is 100% 
    automated for you!
-======================================================================
