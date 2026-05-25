@@ -1,6 +1,6 @@
-======================================================================
+
          CLOTHING RESELLING SPREADSHEET SYSTEM - OVERVIEW
-======================================================================
+
 
 WHAT IS THIS PROJECT?
 This is an automated, macro-free management system built in Microsoft 
